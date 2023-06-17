@@ -47,6 +47,11 @@ plugins:
       enable_creation_date: true
   # - offline
 
+nav:
+  - Home: index.md
+  - CYOAs: ./cyoas/
+  - Interactive CYOA Tutorial: ./interactive-cyoa-tutorial/
+
 extra:
   social:
     - icon: fontawesome/brands/reddit-alien
