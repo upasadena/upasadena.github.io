@@ -28,9 +28,10 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.expand
-    - navigation.indexes
+    # - navigation.indexes # incompatible with toc.integrate
     - navigation.footer
     - toc.follow
+    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
