@@ -1,9 +1,18 @@
-# Pasadena's Site
+---
+comments: true
+---
 
+# Pasadena's Site
 Hello and welcome to my site!
 
 ## Introduction
 My name is Pasadena and I create Interactive CYOAs as a hobby.
+
+## My Stuff
+Here is some of my stuff.
+
+* [My CYOAs](./cyoas/)
+* [Interactive CYOA Tutorial](./interactive-cyoa-tutorial/) (WIP)
 
 ## Social Media and Contact
 These accounts are my real social media pages. You can contact me here if you

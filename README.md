@@ -1,5 +1,4 @@
-<!-- # Pasadena's Site
-Welcome to my site.
+[![ci](https://github.com/upasadena/upasadena.github.io/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/upasadena/upasadena.github.io/actions/workflows/ci.yml)
 
-Here are my things:
-* [CYOAs](./cyoas) -->
+# Pasadena's Site
+This is my personal site.
