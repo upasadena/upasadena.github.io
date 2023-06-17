@@ -1,5 +1,5 @@
-# Pasadena's Site
+<!-- # Pasadena's Site
 Welcome to my site.
 
 Here are my things:
-* [CYOAs](./cyoas)
+* [CYOAs](./cyoas) -->
